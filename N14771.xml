@@ -113,13 +113,14 @@
    <text xml:lang="unk">
       <front>
          <div type="title_page">
-            <pb facs="tcp:018726_0001_0FA8116A78FE8BB0" rendition="simple:additions"/>
+            <pb facs="unknown:018726_0001_0FA8116A78FE8BB0"
+                rendition="simple:additions"/>
             <p>AN ELEGY, SACRED TO THE MEMORY OF THAT GREAT DIVINE, THE REVEREND AND LEARNED DR. SAMUEL COOPER, Who departed this Life December 29, 1783, AETATIS 59.</p>
             <p>BY PHILLIS PETERS.</p>
             <p>BOSTON: Printed and Sold by E. RUSSELL, in Eſſex-Street, near Liberty-Pole. M, DCC, LXXXIV.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:018726_0002_0FA8116B1BE36780"/>
+            <pb facs="unknown:018726_0002_0FA8116B1BE36780"/>
             <p>To the CHURCH and CONGREGATION aſſembling in Brattle-Street, the following ELEGY, Sacred to the MEMORY of their late Re<g ref="char:EOLhyphen"/>verend and Worthy PASTOR, DR. SAMUEL COOPER, is, with the greateſt Sympathy, moſt reſpectfully inſcribed by their Obedient, Humble Servant,</p>
             <closer>
                <signed>PHILLIS PETERS.</signed>
@@ -131,7 +132,7 @@
       </front>
       <body>
          <div type="elegy">
-            <pb facs="tcp:018726_0003_0FA8116BDD680BB0"/>
+            <pb facs="unknown:018726_0003_0FA8116BDD680BB0"/>
             <head>An ELEGY, <hi>&amp;c.</hi>
             </head>
             <lg>
@@ -146,7 +147,7 @@
                <l>Far from the reſtleſs turbulence of life,</l>
                <l>The war of factions, and impaſſion'd ſtrife.</l>
                <l>
-                  <pb n="4" facs="tcp:018726_0004_0FA8116CA0FB6BA0"/>
+                  <pb n="4" facs="unknown:018726_0004_0FA8116CA0FB6BA0"/>
 From every ill mortality endur'd,</l>
                <l>Safe in celeſtial <hi>Salem</hi>'s walls ſecur'd. <milestone type="tcpmilestone" unit="unspecified" n="10"/>,</l>
             </lg>
@@ -170,7 +171,7 @@ From every ill mortality endur'd,</l>
                <l>THY COUNTRY mourns th' afflicting Hand divine</l>
                <l>That now forbids thy radiant lamp to ſhine,</l>
                <l>
-                  <pb n="5" facs="tcp:018726_0005_0FA8116DE9A85650"/>
+                  <pb n="5" facs="unknown:018726_0005_0FA8116DE9A85650"/>
 Which, like the ſun, reſplendent ſource of light <milestone type="tcpmilestone" unit="unspecified" n="25"/>
                </l>
                <l>Diffus'd its beams, and chear'd our gloom of night.</l>
@@ -197,7 +198,7 @@ Which, like the ſun, reſplendent ſource of light <milestone type="tcpmileston
                <l>While Winter frowns, or ſpring renews the grove. <milestone type="tcpmilestone" unit="unspecified" n="40"/>
                </l>
                <l>
-                  <pb n="6" facs="tcp:018726_0006_0FA8116E1FBA7790"/>
+                  <pb n="6" facs="unknown:018726_0006_0FA8116E1FBA7790"/>
 The hapleſs Muſe, her loſs in COOPER mourns,</l>
                <l>And as ſhe fits, ſhe writes, and weeps, by turns;</l>
                <l>A Friend ſincere, whoſe mild indulgent grace</l>
@@ -217,7 +218,7 @@ The hapleſs Muſe, her loſs in COOPER mourns,</l>
             </lg>
          </div>
          <div type="anthem">
-            <pb facs="tcp:018726_0007_0FA8116EDA7DDC40"/>
+            <pb facs="unknown:018726_0007_0FA8116EDA7DDC40"/>
             <head>WORDS FOR A FUNERAL ANTHEM, Taken from the following SCRIPTURES; And ſet to Muſick by Mr. BILLINGS. And performed at the FUNERAL of the Reverend DR. SAMUEL COOPER, on FRIDAY, JANUARY 2, 1784.</head>
             <p>
                <q>
@@ -234,7 +235,7 @@ The hapleſs Muſe, her loſs in COOPER mourns,</l>
                <label>CHORUS.</label> Have pity on me, O ye my friends, <hi>&amp;c.</hi>
             </p>
             <p>
-               <pb n="8" facs="tcp:018726_0008_0FA8117390DA4138"/>
+               <pb n="8" facs="unknown:018726_0008_0FA8117390DA4138"/>
                <q>
                   <bibl>
                      <hi>Pſalm</hi> 6, — 6.</bibl> I am weary with my groan<g ref="char:EOLhyphen"/>ing; all the night make I my Bed to ſwim: I water my couch with my tears.</q>
